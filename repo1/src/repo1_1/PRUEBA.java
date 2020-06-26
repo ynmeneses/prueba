@@ -19,6 +19,7 @@ public class PRUEBA {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hola github");
+        JOptionPane.showMessageDialog(null, "Hola github");"modificado por jordan"
     }
     
 }
