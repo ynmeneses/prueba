@@ -21,6 +21,8 @@ public class ClaseDivision {
             
         }catch( Exception e){
                 System.out.println("ERROR" + e);
+        }finally {
+            System.out.println("Operacion exitosa");
         }
         
     }
